@@ -1,6 +1,7 @@
 ---
 title: Typography
 parent: Utilities
+nav_order: 5
 ---
 
 # Typography Utilities
