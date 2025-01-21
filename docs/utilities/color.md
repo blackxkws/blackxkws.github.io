@@ -1,6 +1,7 @@
 ---
 title: Color
 parent: Utilities
+nav_order: 1
 ---
 
 # Color Utilities
